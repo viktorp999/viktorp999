@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Viktor Petrovski</h1>
-<h3 align="center">A passionate .Net Developer</h3>
+<h3 align="center">A passionate Full Stack .Net/Angular Developer</h3>
 
-- 🌱 Completed Academy for Programming at Avenga Academy - Skopje
+- 🌱 Completed Academy for Web Development at Avenga Academy - Skopje
 - 🌱 Studied at "Faculty for Informations and Comunications Technologies" - Bitola
 
 <h3 align="left">Connect with me:</h3>
